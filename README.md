@@ -10,9 +10,13 @@ A real-time face tracking system built using **Raspberry Pi 4**, **OpenCV**, **M
 > ![image alt](https://github.com/Chauhankavya13/raspberry-pi-face-tracking/blob/ea790f76b0cdd460ae7ca9dab1be32569acbda60/videos/setup.jpg)
 
 
-| Hardware Setup        | Face Tracking Demo       |
-| --------------------- | ------------------------ |
-| ![](images/setup.jpg) | ![](images/tracking.jpg) |
+ Hardware Setup     
+
+![image alt](https://github.com/Chauhankavya13/raspberry-pi-face-tracking/blob/d5090ff78b606f25c66676533d92f5ae1e6b0c80/circuit/diagram.png) 
+
+ Face Tracking Demo    
+ 
+![image alt](https://github.com/Chauhankavya13/raspberry-pi-face-tracking/blob/d5090ff78b606f25c66676533d92f5ae1e6b0c80/videos/DEMO.mp4)
 
 ---
 
