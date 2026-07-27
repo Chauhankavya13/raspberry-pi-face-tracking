@@ -7,7 +7,8 @@ A real-time face tracking system built using **Raspberry Pi 4**, **OpenCV**, **M
 
 ## 📸 Project Preview
 
-> Add your project images below.
+> ![image alt](https://github.com/Chauhankavya13/raspberry-pi-face-tracking/blob/ea790f76b0cdd460ae7ca9dab1be32569acbda60/videos/setup.jpg)
+
 
 | Hardware Setup        | Face Tracking Demo       |
 | --------------------- | ------------------------ |
