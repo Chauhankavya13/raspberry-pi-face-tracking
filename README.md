@@ -26,8 +26,6 @@ Watch the project in action:
 
 📹 **Demo:** `videos/demo.mp4`
 
-*(You can also upload the video to YouTube and paste the link here.)*
-
 ---
 
 # ✨ Features
